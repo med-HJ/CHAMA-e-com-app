@@ -1,0 +1,35 @@
+.Prduits{
+    display:flex;
+    padding:10px;
+   
+  
+    justify-content: space-evenly;
+    
+
+   
+
+}
+
+.catPrduits{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    cursor: pointer;
+    background-color:white;
+    width:13%;
+    
+    padding-left: 0;
+   
+   
+}
+
+#cat{
+    width:65%;
+    margin-right:15px;
+    height: 100%;
+}
+
+h3{
+    width:40%;
+}
+

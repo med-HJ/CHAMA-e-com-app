@@ -1,0 +1,8 @@
+.slid{
+    background-color: white;
+}
+.select{
+    opacity: 0.5;
+    border: 2px solid red;
+    border-radius: 35px;
+}
